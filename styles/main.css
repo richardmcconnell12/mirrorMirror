@@ -3,11 +3,6 @@
     flex-wrap: nowrap;
 }
 
-input {
-    display: block;
-    justify-content: center;
-}
-
 #messageBox1 {
     border: 1px solid red;
     align-items: center;
