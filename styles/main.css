@@ -1,0 +1,25 @@
+#div_content {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+input {
+    display: block;
+    justify-content: center;
+}
+
+#messageBox1 {
+    border: 1px solid red;
+    align-items: center;
+    margin: 5px;
+    padding: 8px;
+    width: 50%;
+}
+
+#messageBox2 {
+    border: 1px solid blue;
+    margin: 5px;
+    padding: 8px;
+    width: 50%;
+    text-align: right;
+}
